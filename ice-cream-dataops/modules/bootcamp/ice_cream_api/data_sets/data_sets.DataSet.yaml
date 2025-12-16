@@ -1,0 +1,3 @@
+- externalId: {{icapi_ds_external_id}}
+  name: asset:ice_cream_api
+  description: This dataset contains asset data for the ice_cream_api location.
